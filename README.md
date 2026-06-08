@@ -73,3 +73,5 @@ node example.mjs # Run example
 - `example.mjs` - Usage example
 - `jsdoc.json` - JSDoc configuration
 - `README.md` - This file
+
+- used AI for creating this `README.md`
