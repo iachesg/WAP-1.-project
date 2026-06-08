@@ -1,0 +1,14 @@
+{
+  "name": "students-library",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Library for managing persons, students, and alumni",
+  "main": "students.mjs",
+  "scripts": {
+    "test": "node test.mjs",
+    "doc": "bash doc.sh"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.5"
+  }
+}
